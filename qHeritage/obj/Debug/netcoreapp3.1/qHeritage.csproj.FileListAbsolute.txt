@@ -1,0 +1,12 @@
+/Users/chahinely/Projects/qHeritage/qHeritage/bin/Debug/netcoreapp3.1/qHeritage.deps.json
+/Users/chahinely/Projects/qHeritage/qHeritage/bin/Debug/netcoreapp3.1/qHeritage.runtimeconfig.json
+/Users/chahinely/Projects/qHeritage/qHeritage/bin/Debug/netcoreapp3.1/qHeritage.runtimeconfig.dev.json
+/Users/chahinely/Projects/qHeritage/qHeritage/bin/Debug/netcoreapp3.1/qHeritage.dll
+/Users/chahinely/Projects/qHeritage/qHeritage/bin/Debug/netcoreapp3.1/qHeritage.pdb
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.csprojAssemblyReference.cache
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.AssemblyInfoInputs.cache
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.AssemblyInfo.cs
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.csproj.CoreCompileInputs.cache
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.dll
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.pdb
+/Users/chahinely/Projects/qHeritage/qHeritage/obj/Debug/netcoreapp3.1/qHeritage.genruntimeconfig.cache
